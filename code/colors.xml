@@ -282,5 +282,35 @@
     <color name="material_blueGrey_700">#455a64</color>
     <color name="material_blueGrey_800">#37474f</color>
     <color name="material_blueGrey_900">#263238</color>
+	
+	<!-- Black -->
+	<color name="material_black">#000000</color>
+	
+	<!-- White -->
+	<color name="material_white">#ffffff</color>
+	
+	<!-- Primary-Indigo -->
+	<color name="material_primaryIndigo_100">#c5cae9</color>
+	<color name="material_primaryIndigo_500">#3f51b5</color>
+	<color name="material_primaryIndigo_700">#303f9f</color>
+	
+	<!-- Accent-Pink -->
+	<color name="material_accentPink_a100">#ff80ab</color>
+	<color name="material_accentPink_a200">#ff4081</color>
+	<color name="material_accentPink_a400">#f50057</color>
+	
+	<!-- Black-Text -->
+	<color name="material_textBlack_black">#000000</color>
+	<color name="material_textBlack_dividers">#1e000000</color>
+	<color name="material_textBlack_disable">#42000000</color>
+	<color name="material_textBlack_secondaryText">#89000000</color>
+	<color name="material_textBlack_text">#dd000000</color>
+	
+	<!-- White-Text -->
+	<color name="material_textWhite_black">#ffffff</color>
+	<color name="material_textWhite_dividers">#1effffff</color>
+	<color name="material_textWhite_disable">#42ffffff</color>
+	<color name="material_textWhite_secondaryText">#89ffffff</color>
+	<color name="material_textWhite_text">#ddffffff</color>
 
 </resources>
