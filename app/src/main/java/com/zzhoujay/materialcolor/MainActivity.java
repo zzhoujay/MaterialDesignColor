@@ -1,13 +1,12 @@
 package com.zzhoujay.materialcolor;
 
-import android.app.Activity;
 import android.os.Bundle;
-import android.widget.FrameLayout;
+import android.support.v7.app.AppCompatActivity;
 
 /**
  * Created by zhou on 16-3-8.
  */
-public class MainActivity extends Activity {
+public class MainActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
